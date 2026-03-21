@@ -7,9 +7,9 @@ export const camisetas = [
     "tallas": ["S", "M", "L", "XL"],
     "colores": ["blanco", "negro", "mostaza"],
     "imagenes": {
-      "blanco": "img/MACACARENA.png",
-      "negro": "img/MACACARENA_BLACK.png",
-      "mostaza": "img/MACACARENA.png"
+      "blanco": "/img/MACACARENA.png",
+      "negro": "/img/MACACARENA_BLACK.png",
+      "mostaza": "/img/MACACARENA.png"
     },
     "tags": ["nuevo"]
   },
